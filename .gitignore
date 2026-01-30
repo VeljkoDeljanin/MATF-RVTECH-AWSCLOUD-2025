@@ -16,3 +16,9 @@ volume/
 
 # Logs
 *.log
+
+# Lambda function zip files
+*.zip
+
+node_modules
+.serverless
